@@ -1,0 +1,6 @@
+Modelo Luxury
+Precio:6
+Ancho: 60.0
+Largo: 60.0
+Espesor: 8.5
+Contenido: 4
